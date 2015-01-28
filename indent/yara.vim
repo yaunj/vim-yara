@@ -5,6 +5,7 @@ let b:did_indent = 1
 
 setlocal autoindent smartindent
 setlocal indentexpr=GetYaraIndent()
+setlocal indentkeys+=0=metadata,0=strings,0=condition
 
 if exists("*GetYaraIndent")
 	finish
