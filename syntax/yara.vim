@@ -2,6 +2,7 @@
 " Language:	Yara
 " Maintainer:	John Davison <unixfreak0037@gmail.com>
 " Last Change:	2012 Dec 14
+" License:	Apache License 2.0
 
 " Quit when a (custom) syntax file was already loaded
 if exists("b:current_syntax")
