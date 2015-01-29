@@ -5,6 +5,7 @@ Syntax, indent and filetype detection for yara rule files.
 
 * Syntax file is copied from [unixfreak0037].
 * Indent plugin provides autoindenting of rule files.
+* Sets makeprg to yarac, so you get errors in the quickfix window.
 
 Installation
 ============
