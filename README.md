@@ -7,6 +7,10 @@ Syntax, indent and filetype detection for yara rule files.
 * Indent plugin provides autoindenting of rule files.
 * Sets makeprg to yarac, so you get errors in the quickfix window.
 
+Example screenshot:
+
+![vim-yara screenshot](vim-yara-screenshot.png)
+
 Installation
 ============
 
